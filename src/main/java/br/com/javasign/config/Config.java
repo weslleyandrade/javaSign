@@ -11,7 +11,7 @@ import java.security.Security;
  * Date: 28/07/13
  * Time: 11:35
  */
-public class Config {
+public final class Config {
     private static Config config;
     private String provider;
 

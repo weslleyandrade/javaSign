@@ -9,5 +9,5 @@ import br.com.javasign.key.bean.KeyBean;
  * Time: 12:29
  */
 public interface IKeyManager {
-    public KeyBean generateKeys();
+    KeyBean generateKeys();
 }
